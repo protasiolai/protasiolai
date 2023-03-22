@@ -3,7 +3,6 @@
 - 👩🏽‍💻 I’m currently working on Data Science & Analytics
 - 📚 I’m currently learning Natural Language Processing
 - 📫 How to reach me: protasiolaianne@gmail.com
-- 😄 Pronouns: ela/dela
 - ☕ Fun fact: I'm coffee lover
 
 <div style= "display: inline_block"><br>
