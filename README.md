@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Laianne Protasio
 
 - 👩🏽‍💻 I’m currently working on Data Science & Analytics
-- 📚 I’m currently learning about Generative Adversarial Networks - GANs
+- 📚 I’m currently learning about Natural Language Processing (NLP)
 - 📫 How to reach me: protasiolaianne@gmail.com
 - ☕ Fun fact: I'm coffee lover
 
